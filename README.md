@@ -1,7 +1,3 @@
-Claro! Aqui está a versão atualizada com os novos diagramas de classes e de sequência, mantendo a formatação adequada para o GitHub:
-
----
-
 # Planejamento do Projeto: Aplicativo de Supermercado
 
 ## Seção 1 - Introdução
@@ -164,7 +160,3 @@ sequenceDiagram
    - O usuário visualiza o carrinho.
    - O usuário finaliza a compra.
    - O sistema cria um pedido e confirma a compra.
-
----
-
-Essa continuação inclui a modelagem inicial com diagramas de classes, diagramas de sequência e casos de uso, mantendo a formatação adequada para o GitHub.
